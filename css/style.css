@@ -44,7 +44,7 @@ a {
 a:hover,
 a:focus {
   text-decoration: none;
-  color: #0c62fb;
+  color: #002faf;
 }
 ul,
 ol {
@@ -78,7 +78,7 @@ hr {
   width: 70px;
   text-align: center;
   position: relative;
-  background: #0c62fb;
+  background: #002faf;
   margin: 0 auto;
   margin-bottom: 30px;
   border: 0;
@@ -94,7 +94,7 @@ hr {
 }
 .navbar-custom {
   margin-bottom: 0;
-  background-color: #0c62fb;
+  background-color: #002faf;
   border-radius: 0px;
   padding: 10px 0;
 }
@@ -125,14 +125,14 @@ hr {
 }
 .navbar-custom .nav li a:hover {
   outline: 0;
-  color: #0c62fb;
+  color: #002faf;
   background-color: transparent;
 }
 .navbar-custom .nav li a:focus,
 .navbar-custom .nav li a:active {
   outline: 0;
   background-color: transparent;
-  color: #0c62fb;
+  color: #002faf;
 }
 .navbar-custom .nav li.active {
   outline: 0;
@@ -174,8 +174,8 @@ hr {
 .btn-primary:active,
 .btn-primary.active {
   color: #fff;
-  background-color: #0c62fb;
-  border-color: #0c62fb;
+  background-color: #002faf;
+  border-color: #002faf;
 }
 .btn-primary i.fa {
   margin-right: 10px;
@@ -217,7 +217,7 @@ hr {
 /* Skills Section */
 #skills {
   padding: 100px 0;
-  background: #0c62fb;
+  background: #002faf;
 }
 #skills h2 {
   color: #fff;
@@ -315,7 +315,7 @@ ol.type li {
   margin-left: 20px;
 }
 ol.type li a {
-  background: #0c62fb;
+  background: #002faf;
   color: #fff;
   padding: 6px 14px;
 }
@@ -428,7 +428,7 @@ ol.type li a:hover {
 /* Achivements Section */
 #achievements {
   padding: 100px 0;
-  background: #0c62fb;
+  background: #002faf;
 }
 #achievements h2 {
   color: #fff;
@@ -560,7 +560,7 @@ ol.type li a:hover {
 #contact {
   padding: 100px 0 40px 0;
   color: #121d1f;
-  background: #0c62fb;
+  background: #002faf;
 }
 #contact h2 {
   color: #fff;
@@ -682,7 +682,7 @@ a:focus,
   color: #a0a5a5;
 }
 #footer a:hover {
-  color: #0c62fb;
+  color: #002faf;
 }
 
 /* Media Queries */
