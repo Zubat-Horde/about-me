@@ -44,7 +44,7 @@ a {
 a:hover,
 a:focus {
   text-decoration: none;
-  color: #7bc3d1;
+  color: #0c62fb;
 }
 ul,
 ol {
@@ -78,7 +78,7 @@ hr {
   width: 70px;
   text-align: center;
   position: relative;
-  background: #7bc3d1;
+  background: #0c62fb;
   margin: 0 auto;
   margin-bottom: 30px;
   border: 0;
@@ -94,7 +94,7 @@ hr {
 }
 .navbar-custom {
   margin-bottom: 0;
-  background-color: #121d1f;
+  background-color: #0c62fb;
   border-radius: 0px;
   padding: 10px 0;
 }
@@ -125,14 +125,14 @@ hr {
 }
 .navbar-custom .nav li a:hover {
   outline: 0;
-  color: #7bc3d1;
+  color: #0c62fb;
   background-color: transparent;
 }
 .navbar-custom .nav li a:focus,
 .navbar-custom .nav li a:active {
   outline: 0;
   background-color: transparent;
-  color: #7bc3d1;
+  color: #0c62fb;
 }
 .navbar-custom .nav li.active {
   outline: 0;
@@ -174,8 +174,8 @@ hr {
 .btn-primary:active,
 .btn-primary.active {
   color: #fff;
-  background-color: #7bc3d1;
-  border-color: #7bc3d1;
+  background-color: #0c62fb;
+  border-color: #0c62fb;
 }
 .btn-primary i.fa {
   margin-right: 10px;
@@ -188,7 +188,7 @@ hr {
   padding: 100px 0;
   text-align: center;
   color: #fff;
-  background: url(../img/intro-bg.jpg) no-repeat center top;
+  background: url(../img/intro-bg.png) no-repeat center top;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   background-size: cover;
@@ -217,7 +217,7 @@ hr {
 /* Skills Section */
 #skills {
   padding: 100px 0;
-  background: #7bc3d1;
+  background: #0c62fb;
 }
 #skills h2 {
   color: #fff;
@@ -315,7 +315,7 @@ ol.type li {
   margin-left: 20px;
 }
 ol.type li a {
-  background: #7bc3d1;
+  background: #0c62fb;
   color: #fff;
   padding: 6px 14px;
 }
@@ -428,7 +428,7 @@ ol.type li a:hover {
 /* Achivements Section */
 #achievements {
   padding: 100px 0;
-  background: #7bc3d1;
+  background: #0c62fb;
 }
 #achievements h2 {
   color: #fff;
@@ -549,7 +549,7 @@ ol.type li a:hover {
 }
 .timeline .timeline-heading h4.subheading {
   text-transform: none;
-  color: #629ca7;
+  color: #002faf;
   font-size: 20px;
 }
 .timeline .timeline-body > p,
@@ -560,7 +560,7 @@ ol.type li a:hover {
 #contact {
   padding: 100px 0 40px 0;
   color: #121d1f;
-  background: #7bc3d1;
+  background: #0c62fb;
 }
 #contact h2 {
   color: #fff;
@@ -682,7 +682,7 @@ a:focus,
   color: #a0a5a5;
 }
 #footer a:hover {
-  color: #7bc3d1;
+  color: #0c62fb;
 }
 
 /* Media Queries */
