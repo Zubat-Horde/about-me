@@ -125,14 +125,14 @@ hr {
 }
 .navbar-custom .nav li a:hover {
   outline: 0;
-  color: #002faf;
+  color: #121d1f;
   background-color: transparent;
 }
 .navbar-custom .nav li a:focus,
 .navbar-custom .nav li a:active {
   outline: 0;
   background-color: transparent;
-  color: #002faf;
+  color: #121d1f;
 }
 .navbar-custom .nav li.active {
   outline: 0;
